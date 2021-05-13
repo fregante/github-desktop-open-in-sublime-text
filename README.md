@@ -1,3 +1,5 @@
+## Deprecated: This is no longer needed, GitHub Desktop supports this natively now
+
 # Github Desktop - Open In Sublime Text
 
 > In GitHub Desktop on Mac, replace "Open in Atom" with Sublime Text.
